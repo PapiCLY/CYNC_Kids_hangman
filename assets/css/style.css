@@ -45,3 +45,9 @@ table {
 }
 
 /* Reset CSS */
+
+nav{
+    background-color: #8652DB;
+    padding: 25px;
+    color: white;
+}
