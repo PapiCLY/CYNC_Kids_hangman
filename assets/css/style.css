@@ -54,12 +54,15 @@ table {
     font-style: normal;
   }
   
-body{
-    background-color: #8652DB;
+  .background-container {
+    background: rgb(222, 206, 249);
+    background: radial-gradient(circle at top right, rgba(98, 139, 218, 1) 0%, rgba(134, 82, 219, 1) 22%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
 }
 
-nav{
-    background-color: #8652DB;
+nav {
     padding: 55px;
     color: white;
 }
