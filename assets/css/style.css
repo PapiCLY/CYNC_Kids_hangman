@@ -89,3 +89,9 @@ nav h1{
     height: 500px;
     width: 500px;
   }
+
+  .hero{
+    background-image: url('/assets/images/kids_group.jpg');
+    background-size: cover;
+    background-position: center;
+  }
